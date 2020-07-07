@@ -22,7 +22,7 @@
     "webpack-cli": "^3.3.8"
   },
   "dependencies": {
-    "electron": "^6.0.9",
+    "electron": "^9.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^5.1.1",
